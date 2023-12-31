@@ -1,7 +1,11 @@
 COURSE PROGRESS:
 
-784 total lectures
-588 is 3/4ths of the way through
+* 784 total lectures
+* 28 sections to complete
+* GOAL: 588 is 3/4ths of the way through
 
-Section: 13
-Lesson: 272
+
+Lessons Completed: 519
+
+Section: 15
+Lesson: 299
