@@ -3,7 +3,7 @@ COURSE PROGRESS:
 * 784 total lectures
 * 28 sections to complete
 -------------------------
-Lessons Completed: 669
+Lessons Completed: 680
 
-Section: 23
-Lesson: 504
+Section: 27
+Lesson: 588
